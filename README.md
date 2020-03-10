@@ -68,6 +68,7 @@ python3 run_ner.py
 基于Bert训练loss效果如下：
 ![avatar](loss.png)
 ### 6. 评估
+由于时间问题，没有做评估过程，在 checkpoint/result.txt 中可以看到对比的效果
 ### 7. 模型固化
 模型最终会保存到checkpoint和model中，两个模型文件格式区别如下：  
 * checkpoint：当do_train设置为True时，estimator会运行save_checkpoints_steps保存一次，主要用于训练  
