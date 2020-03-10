@@ -60,7 +60,7 @@ bert_ner
 * **iterations_per_loop**: 每次estimtor中执行多少步
 * **vocab_file**: 字典文件，例如~/chinese_L-12_H-768_A-12/vocab.txt
 
-###5. 运行
+### 5. 运行
 不建议使用命令行解析方式修改超参数，在调参过程中需要频繁修改超参数，在文件中修改既方便，也不会出错。
 ```
 python3 run_ner.py
