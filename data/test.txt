@@ -1,0 +1,39 @@
+美 国 的 华 莱 士 ， 我 和 他 谈 笑 风 生 。-seq-B-LOC I-LOC O B-PER B-PER B-PER O O O O O O O O O
+看 包 公 断 案 的 戏 ， 看 他 威 风 凛 凛 坐 公 堂 拍 桌 子 动 刑 具 ， 多 少 还 有 一 点 担 心 ， 总 怕 靠 这 一 套 办 法 弄 出 错 案 来 ， 放 过 了 真 正 的 坏 人 ；-seq-O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+可 看 《 包 公 赶 驴 》 这 出 戏 ， 心 里 就 很 踏 实 ： 这 样 是 一 断 一 个 准 的 。-seq-O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O
+譬 如 看 《 施 公 案 》 ， 施 大 人 坐 公 堂 问 案 子 不 得 要 领 ， 总 是 扮 成 普 通 百 姓 深 入 民 间 暗 中 查 访 ， 结 果 就 屡 破 奇 案 了 。-seq-O O O O B-PER O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+如 果 有 人 问 我 ： “ 你 看 过 许 多 包 公 戏 ， 哪 一 出 最 好 ？ ”-seq-O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O
+我 要 毫 不 犹 豫 地 回 答 道 ： “ 自 然 是 《 包 公 赶 驴 》 啦 ！-seq-O O O O O O O O O O O O O O O O B-PER I-PER O O O O O
+包 公 毕 竟 是 包 公 ， 若 是 换 了 好 摆 身 份 的 什 么 公 ， 便 要 先 派 人 通 报 ， 然 后 由 卫 士 前 呼 后 拥 而 去 ， 如 何 查 得 出 实 情 ！ ” （ 马 得 ／ 画 ）-seq-B-PER I-PER O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O
+学 习 基 本 法 顺 利 迎 回 归-seq-O O O O O O O O O O
+本 报 评 论 员-seq-O O O O O
+再 过 5 5 天 ， 我 国 政 府 将 对 香 港 恢 复 行 使 主 权 。-seq-O O O O O O O O O O O O B-LOC I-LOC O O O O O O O
+在 香 港 回 归 前 的 最 后 阶 段 ， 中 共 中 央 举 办 《 “ 一 国 两 制 ” 与 香 港 基 本 法 》 讲 座 ， 中 央 领 导 同 志 认 真 听 讲 ， 虚 心 学 习 ， 很 有 意 义 。-seq-O B-LOC I-LOC O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+这 表 明 ， 以 江 泽 民 同 志 为 核 心 的 党 中 央 坚 定 不 移 地 贯 彻 邓 小 平 同 志 “ 一 国 两 制 ” 的 伟 大 构 想 ， 不 折 不 扣 地 执 行 基 本 法 。-seq-O O O O O B-PER I-PER I-PER O O O O O O B-ORG I-ORG I-ORG O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 一 国 两 制 ” 是 邓 小 平 同 志 的 一 个 伟 大 构 想 ， 《 中 华 人 民 共 和 国 香 港 特 别 行 政 区 基 本 法 》 是 贯 彻 落 实 “ 一 国 两 制 ” 伟 大 构 想 的 一 部 全 国 性 法 律 ， 是 一 部 有 鲜 明 中 国 特 色 的 法 律 。-seq-O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O
+它 把 中 央 对 解 决 香 港 问 题 的 基 本 方 针 政 策 具 体 化 、 法 律 化 ， 成 为 国 家 意 志 。-seq-O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+学 习 基 本 法 ， 顺 利 迎 回 归 ， 是 一 项 迫 切 的 任 务 。-seq-O O O O O O O O O O O O O O O O O O O O O
+要 学 好 基 本 法 ， 首 先 要 认 识 到 基 本 法 的 意 义 。-seq-O O O O O O O O O O O O O O O O O O O O
+邓 小 平 同 志 生 前 高 度 评 价 这 部 法 律 ， 他 指 出 ： “ 说 它 具 有 历 史 意 义 ， 不 只 对 过 去 、 现 在 ， 而 且 包 括 将 来 ；-seq-B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+说 国 际 意 义 ， 不 只 对 第 三 世 界 ， 而 且 对 全 人 类 都 具 有 长 远 意 义 。-seq-O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+这 是 一 个 具 有 创 造 性 的 杰 作 。-seq-O O O O O O O O O O O O O
+“ 基 本 法 不 仅 为 确 保 香 港 平 稳 过 渡 发 挥 重 要 作 用 ， 也 为 确 保 香 港 长 期 繁 荣 稳 定 发 挥 重 要 作 用 ；-seq-O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O
+不 仅 为 当 前 解 决 香 港 问 题 发 挥 作 用 ， 也 为 在 不 远 的 将 来 解 决 澳 门 问 题 和 最 终 解 决 台 湾 问 题 ， 实 现 祖 国 完 全 统 一 发 挥 重 要 作 用 。-seq-O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O
+基 本 法 的 主 要 特 征 ， 是 把 “ 一 国 ” 与 “ 两 制 ” 紧 密 结 合 ， 维 护 国 家 的 主 权 、 统 一 和 领 土 完 整 与 授 权 香 港 特 别 行 政 区 实 行 高 度 自 治 紧 密 结 合 。-seq-O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC O O O O O O O O O O O
+在 一 个 统 一 的 中 华 人 民 共 和 国 ， 可 以 实 行 社 会 主 义 和 资 本 主 义 两 种 制 度 ， 这 是 为 了 民 族 、 国 家 的 根 本 利 益 。-seq-O O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+只 有 认 真 学 习 ， 才 能 理 解 意 义 ， 认 识 特 征 。-seq-O O O O O O O O O O O O O O O O O O O
+制 定 一 部 好 法 律 ， 很 不 容 易 ；-seq-O O O O O O O O O O O O O
+遵 守 法 律 ， 执 行 法 律 ， 也 很 不 容 易 。-seq-O O O O O O O O O O O O O O O O
+必 须 重 申 ， 有 法 必 依 ， 执 法 必 严 ， 违 法 必 究 。-seq-O O O O O O O O O O O O O O O O O O O O
+基 本 法 作 为 一 部 全 国 性 的 法 律 ， 不 仅 香 港 要 严 格 遵 守 ， 各 省 、 自 治 区 、 直 辖 市 都 要 严 格 遵 守 。-seq-O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O
+从 中 共 中 央 举 办 这 个 讲 座 ， 可 以 看 出 ， 党 和 政 府 正 在 努 力 加 强 法 制 建 设 ， 坚 持 依 法 治 国 。-seq-O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+有 了 法 律 ， 有 了 制 度 ， 就 有 了 保 证 ， 就 使 “ 一 国 两 制 ” 的 伟 大 构 想 以 法 律 的 形 式 固 定 下 来 。-seq-O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+全 国 人 民 特 别 是 香 港 同 胞 也 从 中 再 一 次 看 到 ， 中 国 共 产 党 和 人 民 政 府 是 高 度 负 责 任 的 党 和 政 府 ， 一 切 从 人 民 的 利 益 出 发 ， 一 切 为 了 祖 国 的 繁 荣 富 强 ， 香 港 的 明 天 将 更 美 好 。-seq-O O O O O O O B-LOC I-LOC O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O
+学 习 基 本 法 ， 中 央 领 导 带 了 个 好 头 。-seq-O O O O O O O O O O O O O O O O
+全 党 和 全 国 人 民 特 别 是 各 级 党 政 领 导 干 部 ， 都 要 重 视 学 习 。-seq-O O O O O O O O O O O O O O O O O O O O O O O O O O
+只 有 学 习 好 ， 才 能 贯 彻 好 。-seq-O O O O O O O O O O O O
+为 了 迎 接 香 港 顺 利 回 归 祖 国 这 一 中 华 民 族 的 盛 事 ， 首 先 要 有 一 个 扎 实 的 思 想 准 备 和 良 好 的 精 神 状 态 。-seq-O O O O B-LOC I-LOC O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+基 本 法 连 着 你 我 他-seq-O O O O O O O O
+叶 秋-seq-B-PER I-PER
+赠 书 想 来 是 香 港 同 胞 的 一 种 文 明 礼 仪 。-seq-O O O O O B-LOC I-LOC O O O O O O O O O O
+抵 港 仅 数 日 ， 就 收 到 厚 厚 几 摞 书 。-seq-O B-LOC O O O O O O O O O O O O O

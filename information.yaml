@@ -1,0 +1,3 @@
+version: 0.0.1
+description: bert
+label: ['B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'O', 'X', '[CLS]', '[SEP]']
